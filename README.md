@@ -1,7 +1,11 @@
 
-# Information about the replication material
+# Copyright's Impact on Data Mining in Academic Research
 
-This file contains three different types of material that will enable replication for the paper "Copyright's Impact on Data Mining in Academic Resarch", by Christian Handke, Lucie Guibault, and Joan-Josep Vallbé (currently under review).
+Replication material for the paper:
+
+Christian Handke, Lucie Guibault, and Joan-Josep Vallbé (2020): "Copyright's Impact on Data Mining in Academic Resarch"  (currently under review).
+
+This file contains three different types of material that will enable replication for the paper.
 
 Inside the /compendium folder is a .pdf file named "31DataMining_Notes_Compendium". This document contains additional material to the paper. The material covers two main issues that could not be included in the submitted draft due to length restrictions, but that deserve further explanation.
 
