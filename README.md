@@ -32,5 +32,10 @@ Inside the /R-code folder is the R code to replicate the data analysis carried o
 Copyright (C) 2015 The R Foundation for Statistical Computing
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 
+# Contact the authors
 
+You may contact the authors at:
 
+- Christian Handke (handke@eshcc.eur.nl), Erasmus University Rotterdam
+- Lucie Guibault (lucie.guibault@dal.ca), Dalhousie University
+- Joan-Josep Vallbé (vallbe@ub.edu), Universitat de Barcelona
